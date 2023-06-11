@@ -1,62 +1,71 @@
-Subject,Type,Professor,Group,Classroom,Duration
-Programski prevodioci,P,Vujosevic Dusan,"['301', '302', '303', '304', '305', '306', '307', '308', '309', '309a']",n,2
-Interakcija covek racunar,P,Vujosevic Dusan,"['301', '302', '303', '304', '305', '306', '307', '308', '309', '309a', '2s1', '2s2']",k,2
-Masinsko ucenje,P,Ilic Nemanja,"['301', '302', '306', '308']",n,2
-Interakcija covek racunar,V,Radosavljevic Nemanja,"['301', '303', '304', '305']",r,2
-WEB programiranje,P,Vidakovic MIlan,"['301', '303', '304', '307', '308', '309', '314', '319', '322']",n,2
-WEB programiranje,V,Gavrilovic Vuk,"['301', '303', '304', '307', '322']",r,2
-Programski prevodioci,V,Stankovic Ivana,"['301', '305', '308']",r,2
-Softverske komponente,P,Dimic Surla Bojana,"['301', '307', '309a']",n,2
-Softverske komponente,V,Radovic Mihailo,"['301', '307', '309a']",r,2
-Masinsko ucenje,V,Jovanovic Nikola,"['301', '308', '302', '306']",n,2
-Genetski algoritmi,V,Tomic Milan,"['302', '303']",r,2
-Programski prevodioci,V,Stankovic Ivana,"['302', '303', '304']",r,2
-Genetski algoritmi,P,Vasiljevic Jelena,"['302', '303', '305', '306', '309', '309a']",n,2
-Funkcionalno programiranje,P,Dimic Surla Bojana,"['302', '304', '309']",r,2
-Funkcionalno programiranje,V,Ciganovic Igor,"['302', '304', '309']",r,2
-Interakcija covek racunar,V,Radosavljevic Nemanja,"['302', '307', '306']",r,2
-Razvoj mobilnih aplikacija,P,Zirojevic Nemanja,"['303', '304', '305', '306', '307', '308', '313', '314']",n,2
-Razvoj mobilnih aplikacija,V,Kojadinovic Dragoljub,"['303', '304', '305', '306', '307', '308', '313', '314']",r,2
-Modelovanje i simulacija,P,Jankovic Radomir,"['305', '319', '323', '309a', '324']",n,2
-Programski prevodioci,V,Stankovic Ivana,"['306', '307', '309', '309a']",r,2
-Interakcija covek racunar,V,Radosavljevic Nemanja,"['308', '309', '309a']",r,2
-WEB programiranje,V,Gavrilovic Vuk,"['308', '309', '314', '319']",r,2
-Genetski algoritmi,V,Tomic Milan,"['309', '309a', '305', '306']",r,2
-Modelovanje i simulacija,V,Jankovic Radomir,"['309a', '324', '305']",r,2
-Bezbednost mreza,P,Babic Djorde,"['313', '314', '319', '323', '324', '322']",r,2
-Bezbednost mreza,V,Bojovic Petar,"['313', '314', '319', '323', '324', '322']",r,2
-Kompresija podataka,P,Vukotic Selena,"['313', '314', '319', '323', '324', '322']",r,3
-Kompresija podataka,V,Vukotic Selena,"['313', '314', '319', '323', '324', '322']",r,2
-Kodovanje i teorija informacija,P,Vucic Desimir,"['313', '314', '319', '323', '324', '322']",n,3
-Kodovanje i teorija informacija,V,Jovanovic Miljana,"['313', '314', '319', '323', '324', '322']",r,2
-Uvod u robotiku,P,Jovanovic Milos,"['313', '323']",n,2
-Uvod u robotiku,V,Jovanovic Miljana,"['313', '323']",r,2
-Modelovanje i simulacija,V,Jankovic Radomir,"['319', '323']",r,2
-Data centar infrastruktura,P,Martic Goran,"['324', '322']",r,2
-Data centar infrastruktura,V,Martic Goran,"['324', '322']",r,2
-Graficki dizajn 2,P,Malesevic Nenad,['3d1'],n,3
-Graficki dizajn 2,V,Malesevic Nenad,['3d1'],a,3
-Muzicka produkcija 3,P,Ognjanovic Ivana,['3d1'],s,3
-Muzicka produkcija 3,V,Ognjanovic Ivana,['3d1'],s,3
-Racunarska animacija,P,Djuric Milan,['3d1'],n,3
-Racunarska animacija,V,Djuric Milan,['3d1'],n,3
-Scenario i knjiga snimanja,P,Stetin Darko,['3d1'],a,3
-Scenario i knjiga snimanja,V,Stetin Darko,['3d1'],n,2
-Upravljanje i odrzavanje Windows Server okruzenja,P,Lale Sinisa,['3s1'],r,3
-Upravljanje i odrzavanje Windows Server okruzenja,P,Lale Sinisa,['3s1'],r,3
-Implementiranje Microsoft ISA servera,P,Lale Sinisa,['3s1'],r,3
-Implementiranje Microsoft ISA servera,P,Lale Sinisa,['3s1'],r,3
-Prakticne tehnike zastite u IP mrezama,P,Bojovic Petar,['3s1'],r,3
-Prakticne tehnike zastite u IP mrezama,V,Jankovski Ivan,['3s1'],r,3
-Istorija racunarstva,P,Zahorjanski Miroljub,"['3s1', '3s2']",n,2
-Razvoj infrastrukture i servisa u oblaku,P,Miletic Misa,['3s2'],r,3
-Razvoj infrastrukture i servisa u oblaku,V,Miletic Misa,['3s2'],r,3
-Razvoj web aplikacija i servisa,P,Markovic Nemanja,['3s2'],r,3
-Razvoj web aplikacija i servisa,P,Markovic Nemanja,['3s2'],r,3
-Microsoft tehnologije za pristup podacima,P,Milosavljevic Milos,['3s2'],r,3
-Microsoft tehnologije za pristup podacima,P,Milosavljevic Milos,['3s2'],r,3
-Konkurentni i distribuirani sistemi,V,Milojkovic Branislav,['401'],r,3
-Softversko inzenjerstvo,V,Markovic Ana,['401'],r,4
+﻿Subject,Type,Professor,Group,Classroom,Duration
+Compiler Design,P,Dr. Devesh Pratap Singh,"['301', '302', '303', '304', '305']",n,2
+Software Engineering,P,Dr. Neha Tripathi,"['301', '302', '303', '304', '305']",k,2
+Computer Networks-I,P,Dr. Sumit Pundir,"['301', '302', '303', '304', '305']",n,2
+Full Stack Web Development,V,Dr. Manish Shrama,"['301', '302', '303', '304', '305']",r,2
+Career Skills (QAR/Verbal/ Soft Skills),P,Mr. Saurabh Rawat/Mr. Okesh Chhabra/Dr. Gopal Krishna,"['301', '302', '303', '304', '305']",n,2
+Competitive Programming,V,Mr. Akshay Rajput,"['301', '302', '303', '304', '305']",r,2
+Image Processing and Computer Vision ,V,Dr. Manoj Diwakar,"['301', '302', '303', '304', '305']",r,2
+Image Processing and Computer Vision,P, Dr. Vikas Tripathi,"['301', '302', '303', '304', '305']",n,2
+Devops on Cloud,V,Ms. Sarishma,"['301', '302', '303', '304', '305']",r,2
+Devops on Cloud,V,Dr. Vijay Singh ,"['301', '302', '303', '304', '305']",n,2
+Bigdata storage and Processing,V,Mr. Prabhdeep Singh,"['301', '302', '303', '304', '305']",r,2
+Network and System Security,V,Dr. Mohammad Wazid,"['301', '302', '303', '304', '305']",r,2
+Compiler Design Lab,P,Ms. Vishu Tyagi,"['301', '302', '303', '304', '305']",n,2
+"	
+Compiler Design Lab",P,Mr. Ashwini Kumar,"['301', '302', '303', '304', '305']",r,2
+Software Engineering Lab,V,Dr. Neha Tripathi ,"['301', '302', '303', '304', '305']",r,2
+Web Development Lab,V,"	
+Dr. Manish Sharma","['301', '302', '303', '304', '305']",r,2
+Computer Networks-I,P,Dr. Jay Bhatnagar,"['301', '302', '303', '304', '305']",n,2
+Compiler Design Lab,V,"	
+Dr. Priya Matta","['301', '302', '303', '304', '305']",r,2
+"Software Engineering Lab
+",P, Dr. A. Suresh,"['301', '302', '303', '304', '305']",n,2
+Software Engineering Lab,V,Dr. Surendra Kumar Shukla,"['306', '307', '309']",r,2
+Web Development Lab,V,Dr. Parul Madan ,"['306', '307', '309']",r,2
+Web Development Lab,V, Mr. Arnav Kotiyal,"['306', '307', '309']",r,2
+Software Engineering Lab,V,Mr. Prabhdeep Singh,"['306', '307', '309']",r,2
+Compiler Design ,V,"	
+Dr. Guruprasad","['306', '307', '309']",r,2
+"	
+Computer Networks-I",P,Ms. Vishu Tyagi,"['306', '307', '309']",r,2
+Compiler Design Lab,V,Dr. Ankur Choudhary ,"['306', '307', '309']",r,2
+"	
+Full Stack Web Development",P,Mr. Yuvraj Joshi,"['306', '307', '309']",r,3
+Web Development Lab,V,Mr. Yuvraj Joshi,"['306', '307', '309']",r,2
+Software Engineering Lab,P,Dr. Surendra Kumar Shukla,"['306', '307', '309']",n,3
+Compiler Design,V,"	
+Mr. Ankit Tomer","['306', '307', '309']",r,2
+Computer Networks-I,P,Dr. Akansha Gupta,"['306', '307', '309']",n,2
+Compiler Design Lab,V,Mr. Ankit Tomer,"['306', '307', '309']",r,2
+Software Engineering Lab,V,Dr. Prakash Srivastava ,"['306', '307', '309']",r,2
+Full Stack Web Development,P,Mr. Sanjeev Kukreti,"['306', '307', '309']",r,2
+Software Engineering Lab,V,Dr. Santosh Kumar ,"['306', '307', '309']",r,2
+Software Engineering Lab,P, Ms. Anchal Rawat,"['306', '307', '309']",n,3
+Web Development Lab,V,Mr. Arnav Kotiyal ,"['306', '307', '309']",a,3
+Web Development Lab,P,Mr. Sanjeev Kukreti,"['306', '307', '309']",s,3
+Compiler Design,V,Mr. Priyank Pandey,"['306', '307', '309']",s,3
+Software Engineering Lab,P,Dr. Jyoti Agarwal,['3d1'],n,3
+Web Development Lab,V,Dr. Noor Mohd,['3d1'],n,3
+Security in Social Networks ,P,Mr. Ashwini Kumar,['3d1'],a,3
+Bigdata Storage and Processing,V,Mr. Prabhdeep Singh,['3d1'],n,2
+Cloud Computing Technologies ,P,Ms. Sarishma,['3s1'],r,3
+Compiler Design Lab,P,Mr. Priyank Pandey ,['3s1'],r,3
+Compiler Design Lab,P, Mr. Yogesh Lohumi,['3s1'],r,3
+Compiler Design,P,Dr. Guruprasad,['3s1'],r,3
+Compiler Design Lab,P,Dr. Ankur Choudhary,['3s1'],r,3
+Web Development Lab,V,Ms. Tanusha Mittal ,['3s1'],r,3
+Web Development Lab,P,Mr. Sanjay Roka,"['3s1', '3s2']",n,2
+Full Stack Web Development,P,Ms. Tanusha Mittal,['3s2'],r,3
+Compiler Design Lab,V,Ms. Anchal Rawat,['3s2'],r,3
+Software Engineering Lab,P,Dr. Akansha Gupta,['3s2'],r,3
+Computer Networks-I,P,"	
+Dr.Vishwakarma",['3s2'],r,3
+Network and System Security,P,Dr. Mohammad Wazid,['3s2'],r,3
+Cloud Computing Technologies ,P,Ms. Sarishma,['3s2'],r,3
+Image Processing and Computer Vision,V,Dr. Vikas Tripathi,['401'],r,3
+Bigdata Analytics,V,Mr. Prabhdeep Singh,['401'],r,4
 Softversko inzenjerstvo,P,Perisic Branko,"['401', '402']",n,4
 "Teorija algoritama, automata i jezika",P,Jovanovic Jelena,"['401', '402']",n,3
 "Teorija algoritama, automata i jezika",V,Tomic Milan,"['401', '402']",n,3

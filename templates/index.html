@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>FlaskTest</title>
+</head>
+
+<body>
+	<h2>Welcome To TimeTable Generator</h2>
+{% block body %}
+    <label for="section">Section:</label>
+    <select id="section" onchange="myFunction()">
+        <option value=" " selected>Not selected</option>
+    </select>
+<table border=1 cellspacing=0 cellpadding=0 width=960>
+    <thead>
+        <tr>
+            <td>&nbsp&nbsp&nbsp&nbsp</td>
+            {%for i in range(0,daylen+1)%}
+            <td>{{((8+i)%12)|int}}:00 {% if (8+i+1)/12 > 1%}P.M.{% else %}A.M.{% endif %} - {{((8+i+1)%12)|int}}:00 {% if (8+i+1)/12 > 1%}P.M.{% else %}A.M.{% endif %}</td>
+            {%endfor%}
+        </tr>
+    </thead>
+    <tbody>
+        {%for i in range(0,len)%}
+        <tr id={{day[i]}}>
+            <td>{{day[i]}}</td>
+            {%for i in range(0,daylen+1)%}
+            <td>&nbsp&nbsp&nbsp&nbsp</td>
+            {%endfor%}
+        </tr>
+        {%endfor%}
+
+    </tbody>
+</table>
+<form action="/admin">
+    <input type="submit" name="generate_btn" id="generate_btn" value="Go to Generator">
+</form>
+{% endblock %}
+
+<script src=
+"https://code.jquery.com/jquery-3.3.1.min.js">
+  </script>
+
+<script type="text/javascript">
+    const timeTable = JSON.parse(JSON.parse({{jsonfile|tojson}}));
+    // console.log(timeTable);
+    const sectionSelect = document.getElementById("section");
+    // console.log(sectionSelect);
+    for(let key in timeTable.sections){
+        let option = document.createElement("option");
+        option.setAttribute('value', key);
+
+        let optionText = document.createTextNode(key);
+        option.appendChild(optionText);
+
+        sectionSelect.appendChild(option);
+    }
+    function myFunction() {
+        $("#section option[value=' ']").remove();
+        const x = document.getElementById("section");
+        var val = x.value;
+        console.log("The input value has changed. The new value is: " + val);
+        for(let weekday in timeTable.sections[val]){
+            var wkday = document.getElementById(weekday).children;
+            var lunchPassed = 0
+            for(let lesson in timeTable.sections[val][weekday]){
+                if(lesson != 0){
+                    if(lesson == {{daylen}}/2){
+                        lunchPassed = 1
+                        continue
+                    }
+                    wkday.item(lesson).innerHTML=timeTable.sections[val][weekday][lesson-lunchPassed];
+                }
+
+            }
+        }
+    }
+    // document.querySelector(".container").innerHTML = JSON.stringify(jsonfile, null, 2);
+  </script>
+</body>
+
+</html>

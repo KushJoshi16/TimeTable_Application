@@ -1,365 +1,47 @@
 [
     {
-        "Subject": "Programski prevodioci",
+        "Subject": "Compiler Design",
         "Type": "P",
-        "Professor": "Vujosevic Dusan",
-        "Group": "['301', '302', '303', '304', '305', '306', '307', '308', '309', '309a']",
+        "Professor": "Dr. Devesh Pratap Singh",
+        "Group": "['301', '302', '303', '304', '305']",
         "Classroom": [
             "U1",
             "U8"
         ],
         "Duration": 2,
         "Assigned_class": "U1",
-        "Assigned_time": 55
+        "Assigned_time": 16
     },
     {
-        "Subject": "Interakcija covek racunar",
+        "Subject": "Software Engineering",
         "Type": "P",
-        "Professor": "Vujosevic Dusan",
-        "Group": "['301', '302', '303', '304', '305', '306', '307', '308', '309', '309a', '2s1', '2s2']",
+        "Professor": "Dr. Neha Tripathi",
+        "Group": "['301', '302', '303', '304', '305']",
         "Classroom": [
             "CR"
         ],
         "Duration": 2,
         "Assigned_class": "CR",
-        "Assigned_time": 32
+        "Assigned_time": 38
     },
     {
-        "Subject": "Masinsko ucenje",
+        "Subject": "Computer Networks-I",
         "Type": "P",
-        "Professor": "Ilic Nemanja",
-        "Group": "['301', '302', '306', '308']",
-        "Classroom": [
-            "U1",
-            "U8"
-        ],
-        "Duration": 2,
-        "Assigned_class": "U8",
-        "Assigned_time": 4
-    },
-    {
-        "Subject": "Interakcija covek racunar",
-        "Type": "V",
-        "Professor": "Radosavljevic Nemanja",
-        "Group": "['301', '303', '304', '305']",
-        "Classroom": [
-            "U3",
-            "U4",
-            "U5",
-            "U7"
-        ],
-        "Duration": 2,
-        "Assigned_class": "U4",
-        "Assigned_time": 21
-    },
-    {
-        "Subject": "WEB programiranje",
-        "Type": "P",
-        "Professor": "Vidakovic MIlan",
-        "Group": "['301', '303', '304', '307', '308', '309', '314', '319', '322']",
+        "Professor": "Dr. Sumit Pundir",
+        "Group": "['301', '302', '303', '304', '305']",
         "Classroom": [
             "U1",
             "U8"
         ],
         "Duration": 2,
         "Assigned_class": "U1",
-        "Assigned_time": 28
-    },
-    {
-        "Subject": "WEB programiranje",
-        "Type": "V",
-        "Professor": "Gavrilovic Vuk",
-        "Group": "['301', '303', '304', '307', '322']",
-        "Classroom": [
-            "U3",
-            "U4",
-            "U5",
-            "U7"
-        ],
-        "Duration": 2,
-        "Assigned_class": "U3",
-        "Assigned_time": 42
-    },
-    {
-        "Subject": "Programski prevodioci",
-        "Type": "V",
-        "Professor": "Stankovic Ivana",
-        "Group": "['301', '305', '308']",
-        "Classroom": [
-            "U3",
-            "U4",
-            "U5",
-            "U7"
-        ],
-        "Duration": 2,
-        "Assigned_class": "U4",
-        "Assigned_time": 16
-    },
-    {
-        "Subject": "Softverske komponente",
-        "Type": "P",
-        "Professor": "Dimic Surla Bojana",
-        "Group": "['301', '307', '309a']",
-        "Classroom": [
-            "U1",
-            "U8"
-        ],
-        "Duration": 2,
-        "Assigned_class": "U1",
-        "Assigned_time": 14
-    },
-    {
-        "Subject": "Softverske komponente",
-        "Type": "V",
-        "Professor": "Radovic Mihailo",
-        "Group": "['301', '307', '309a']",
-        "Classroom": [
-            "U3",
-            "U4",
-            "U5",
-            "U7"
-        ],
-        "Duration": 2,
-        "Assigned_class": "U3",
-        "Assigned_time": 20
-    },
-    {
-        "Subject": "Masinsko ucenje",
-        "Type": "V",
-        "Professor": "Jovanovic Nikola",
-        "Group": "['301', '308', '302', '306']",
-        "Classroom": [
-            "U1",
-            "U8"
-        ],
-        "Duration": 2,
-        "Assigned_class": "U8",
-        "Assigned_time": 21
-    },
-    {
-        "Subject": "Genetski algoritmi",
-        "Type": "V",
-        "Professor": "Tomic Milan",
-        "Group": "['302', '303']",
-        "Classroom": [
-            "U3",
-            "U4",
-            "U5",
-            "U7"
-        ],
-        "Duration": 2,
-        "Assigned_class": "U5",
-        "Assigned_time": 19
-    },
-    {
-        "Subject": "Programski prevodioci",
-        "Type": "V",
-        "Professor": "Stankovic Ivana",
-        "Group": "['302', '303', '304']",
-        "Classroom": [
-            "U3",
-            "U4",
-            "U5",
-            "U7"
-        ],
-        "Duration": 2,
-        "Assigned_class": "U7",
-        "Assigned_time": 50
-    },
-    {
-        "Subject": "Genetski algoritmi",
-        "Type": "P",
-        "Professor": "Vasiljevic Jelena",
-        "Group": "['302', '303', '305', '306', '309', '309a']",
-        "Classroom": [
-            "U1",
-            "U8"
-        ],
-        "Duration": 2,
-        "Assigned_class": "U8",
-        "Assigned_time": 52
-    },
-    {
-        "Subject": "Funkcionalno programiranje",
-        "Type": "P",
-        "Professor": "Dimic Surla Bojana",
-        "Group": "['302', '304', '309']",
-        "Classroom": [
-            "U3",
-            "U4",
-            "U5",
-            "U7"
-        ],
-        "Duration": 2,
-        "Assigned_class": "U5",
-        "Assigned_time": 4
-    },
-    {
-        "Subject": "Funkcionalno programiranje",
-        "Type": "V",
-        "Professor": "Ciganovic Igor",
-        "Group": "['302', '304', '309']",
-        "Classroom": [
-            "U3",
-            "U4",
-            "U5",
-            "U7"
-        ],
-        "Duration": 2,
-        "Assigned_class": "U5",
-        "Assigned_time": 53
-    },
-    {
-        "Subject": "Interakcija covek racunar",
-        "Type": "V",
-        "Professor": "Radosavljevic Nemanja",
-        "Group": "['302', '307', '306']",
-        "Classroom": [
-            "U3",
-            "U4",
-            "U5",
-            "U7"
-        ],
-        "Duration": 2,
-        "Assigned_class": "U5",
-        "Assigned_time": 17
-    },
-    {
-        "Subject": "Razvoj mobilnih aplikacija",
-        "Type": "P",
-        "Professor": "Zirojevic Nemanja",
-        "Group": "['303', '304', '305', '306', '307', '308', '313', '314']",
-        "Classroom": [
-            "U1",
-            "U8"
-        ],
-        "Duration": 2,
-        "Assigned_class": "U1",
-        "Assigned_time": 30
-    },
-    {
-        "Subject": "Razvoj mobilnih aplikacija",
-        "Type": "V",
-        "Professor": "Kojadinovic Dragoljub",
-        "Group": "['303', '304', '305', '306', '307', '308', '313', '314']",
-        "Classroom": [
-            "U3",
-            "U4",
-            "U5",
-            "U7"
-        ],
-        "Duration": 2,
-        "Assigned_class": "U3",
-        "Assigned_time": 44
-    },
-    {
-        "Subject": "Modelovanje i simulacija",
-        "Type": "P",
-        "Professor": "Jankovic Radomir",
-        "Group": "['305', '319', '323', '309a', '324']",
-        "Classroom": [
-            "U1",
-            "U8"
-        ],
-        "Duration": 2,
-        "Assigned_class": "U1",
-        "Assigned_time": 42
-    },
-    {
-        "Subject": "Programski prevodioci",
-        "Type": "V",
-        "Professor": "Stankovic Ivana",
-        "Group": "['306', '307', '309', '309a']",
-        "Classroom": [
-            "U3",
-            "U4",
-            "U5",
-            "U7"
-        ],
-        "Duration": 2,
-        "Assigned_class": "U5",
-        "Assigned_time": 12
-    },
-    {
-        "Subject": "Interakcija covek racunar",
-        "Type": "V",
-        "Professor": "Radosavljevic Nemanja",
-        "Group": "['308', '309', '309a']",
-        "Classroom": [
-            "U3",
-            "U4",
-            "U5",
-            "U7"
-        ],
-        "Duration": 2,
-        "Assigned_class": "U4",
-        "Assigned_time": 50
-    },
-    {
-        "Subject": "WEB programiranje",
-        "Type": "V",
-        "Professor": "Gavrilovic Vuk",
-        "Group": "['308', '309', '314', '319']",
-        "Classroom": [
-            "U3",
-            "U4",
-            "U5",
-            "U7"
-        ],
-        "Duration": 2,
-        "Assigned_class": "U4",
-        "Assigned_time": 52
-    },
-    {
-        "Subject": "Genetski algoritmi",
-        "Type": "V",
-        "Professor": "Tomic Milan",
-        "Group": "['309', '309a', '305', '306']",
-        "Classroom": [
-            "U3",
-            "U4",
-            "U5",
-            "U7"
-        ],
-        "Duration": 2,
-        "Assigned_class": "U7",
-        "Assigned_time": 28
-    },
-    {
-        "Subject": "Modelovanje i simulacija",
-        "Type": "V",
-        "Professor": "Jankovic Radomir",
-        "Group": "['309a', '324', '305']",
-        "Classroom": [
-            "U3",
-            "U4",
-            "U5",
-            "U7"
-        ],
-        "Duration": 2,
-        "Assigned_class": "U5",
         "Assigned_time": 57
     },
     {
-        "Subject": "Bezbednost mreza",
-        "Type": "P",
-        "Professor": "Babic Djorde",
-        "Group": "['313', '314', '319', '323', '324', '322']",
-        "Classroom": [
-            "U3",
-            "U4",
-            "U5",
-            "U7"
-        ],
-        "Duration": 2,
-        "Assigned_class": "U3",
-        "Assigned_time": 12
-    },
-    {
-        "Subject": "Bezbednost mreza",
+        "Subject": "Full Stack Web Development",
         "Type": "V",
-        "Professor": "Bojovic Petar",
-        "Group": "['313', '314', '319', '323', '324', '322']",
+        "Professor": "Dr. Manish Shrama",
+        "Group": "['301', '302', '303', '304', '305']",
         "Classroom": [
             "U3",
             "U4",
@@ -368,28 +50,41 @@
         ],
         "Duration": 2,
         "Assigned_class": "U4",
-        "Assigned_time": 30
+        "Assigned_time": 24
     },
     {
-        "Subject": "Kompresija podataka",
+        "Subject": "Career Skills (QAR/Verbal/ Soft Skills)",
         "Type": "P",
-        "Professor": "Vukotic Selena",
-        "Group": "['313', '314', '319', '323', '324', '322']",
+        "Professor": "Mr. Saurabh Rawat/Mr. Okesh Chhabra/Dr. Gopal Krishna",
+        "Group": "['301', '302', '303', '304', '305']",
+        "Classroom": [
+            "U1",
+            "U8"
+        ],
+        "Duration": 2,
+        "Assigned_class": "U8",
+        "Assigned_time": 14
+    },
+    {
+        "Subject": "Competitive Programming",
+        "Type": "V",
+        "Professor": "Mr. Akshay Rajput",
+        "Group": "['301', '302', '303', '304', '305']",
         "Classroom": [
             "U3",
             "U4",
             "U5",
             "U7"
         ],
-        "Duration": 3,
+        "Duration": 2,
         "Assigned_class": "U3",
-        "Assigned_time": 28
+        "Assigned_time": 14
     },
     {
-        "Subject": "Kompresija podataka",
+        "Subject": "Image Processing and Computer Vision ",
         "Type": "V",
-        "Professor": "Vukotic Selena",
-        "Group": "['313', '314', '319', '323', '324', '322']",
+        "Professor": "Dr. Manoj Diwakar",
+        "Group": "['301', '302', '303', '304', '305']",
         "Classroom": [
             "U3",
             "U4",
@@ -398,26 +93,26 @@
         ],
         "Duration": 2,
         "Assigned_class": "U7",
-        "Assigned_time": 42
+        "Assigned_time": 26
     },
     {
-        "Subject": "Kodovanje i teorija informacija",
+        "Subject": "Image Processing and Computer Vision",
         "Type": "P",
-        "Professor": "Vucic Desimir",
-        "Group": "['313', '314', '319', '323', '324', '322']",
+        "Professor": " Dr. Vikas Tripathi",
+        "Group": "['301', '302', '303', '304', '305']",
         "Classroom": [
             "U1",
             "U8"
         ],
-        "Duration": 3,
-        "Assigned_class": "U8",
-        "Assigned_time": 42
+        "Duration": 2,
+        "Assigned_class": "U1",
+        "Assigned_time": 18
     },
     {
-        "Subject": "Kodovanje i teorija informacija",
+        "Subject": "Devops on Cloud",
         "Type": "V",
-        "Professor": "Jovanovic Miljana",
-        "Group": "['313', '314', '319', '323', '324', '322']",
+        "Professor": "Ms. Sarishma",
+        "Group": "['301', '302', '303', '304', '305']",
         "Classroom": [
             "U3",
             "U4",
@@ -425,14 +120,57 @@
             "U7"
         ],
         "Duration": 2,
-        "Assigned_class": "U4",
-        "Assigned_time": 12
+        "Assigned_class": "U7",
+        "Assigned_time": 4
     },
     {
-        "Subject": "Uvod u robotiku",
+        "Subject": "Devops on Cloud",
+        "Type": "V",
+        "Professor": "Dr. Vijay Singh ",
+        "Group": "['301', '302', '303', '304', '305']",
+        "Classroom": [
+            "U1",
+            "U8"
+        ],
+        "Duration": 2,
+        "Assigned_class": "U8",
+        "Assigned_time": 52
+    },
+    {
+        "Subject": "Bigdata storage and Processing",
+        "Type": "V",
+        "Professor": "Mr. Prabhdeep Singh",
+        "Group": "['301', '302', '303', '304', '305']",
+        "Classroom": [
+            "U3",
+            "U4",
+            "U5",
+            "U7"
+        ],
+        "Duration": 2,
+        "Assigned_class": "U7",
+        "Assigned_time": 6
+    },
+    {
+        "Subject": "Network and System Security",
+        "Type": "V",
+        "Professor": "Dr. Mohammad Wazid",
+        "Group": "['301', '302', '303', '304', '305']",
+        "Classroom": [
+            "U3",
+            "U4",
+            "U5",
+            "U7"
+        ],
+        "Duration": 2,
+        "Assigned_class": "U7",
+        "Assigned_time": 14
+    },
+    {
+        "Subject": "Compiler Design Lab",
         "Type": "P",
-        "Professor": "Jovanovic Milos",
-        "Group": "['313', '323']",
+        "Professor": "Ms. Vishu Tyagi",
+        "Group": "['301', '302', '303', '304', '305']",
         "Classroom": [
             "U1",
             "U8"
@@ -442,25 +180,10 @@
         "Assigned_time": 8
     },
     {
-        "Subject": "Uvod u robotiku",
-        "Type": "V",
-        "Professor": "Jovanovic Miljana",
-        "Group": "['313', '323']",
-        "Classroom": [
-            "U3",
-            "U4",
-            "U5",
-            "U7"
-        ],
-        "Duration": 2,
-        "Assigned_class": "U7",
-        "Assigned_time": 10
-    },
-    {
-        "Subject": "Modelovanje i simulacija",
-        "Type": "V",
-        "Professor": "Jankovic Radomir",
-        "Group": "['319', '323']",
+        "Subject": "\t\nCompiler Design Lab",
+        "Type": "P",
+        "Professor": "Mr. Ashwini Kumar",
+        "Group": "['301', '302', '303', '304', '305']",
         "Classroom": [
             "U3",
             "U4",
@@ -469,28 +192,13 @@
         ],
         "Duration": 2,
         "Assigned_class": "U5",
-        "Assigned_time": 6
+        "Assigned_time": 12
     },
     {
-        "Subject": "Data centar infrastruktura",
-        "Type": "P",
-        "Professor": "Martic Goran",
-        "Group": "['324', '322']",
-        "Classroom": [
-            "U3",
-            "U4",
-            "U5",
-            "U7"
-        ],
-        "Duration": 2,
-        "Assigned_class": "U7",
-        "Assigned_time": 34
-    },
-    {
-        "Subject": "Data centar infrastruktura",
+        "Subject": "Software Engineering Lab",
         "Type": "V",
-        "Professor": "Martic Goran",
-        "Group": "['324', '322']",
+        "Professor": "Dr. Neha Tripathi ",
+        "Group": "['301', '302', '303', '304', '305']",
         "Classroom": [
             "U3",
             "U4",
@@ -499,12 +207,366 @@
         ],
         "Duration": 2,
         "Assigned_class": "U3",
-        "Assigned_time": 46
+        "Assigned_time": 36
     },
     {
-        "Subject": "Graficki dizajn 2",
+        "Subject": "Web Development Lab",
+        "Type": "V",
+        "Professor": "\t\nDr. Manish Sharma",
+        "Group": "['301', '302', '303', '304', '305']",
+        "Classroom": [
+            "U3",
+            "U4",
+            "U5",
+            "U7"
+        ],
+        "Duration": 2,
+        "Assigned_class": "U7",
+        "Assigned_time": 44
+    },
+    {
+        "Subject": "Computer Networks-I",
         "Type": "P",
-        "Professor": "Malesevic Nenad",
+        "Professor": "Dr. Jay Bhatnagar",
+        "Group": "['301', '302', '303', '304', '305']",
+        "Classroom": [
+            "U1",
+            "U8"
+        ],
+        "Duration": 2,
+        "Assigned_class": "U1",
+        "Assigned_time": 10
+    },
+    {
+        "Subject": "Compiler Design Lab",
+        "Type": "V",
+        "Professor": "\t\nDr. Priya Matta",
+        "Group": "['301', '302', '303', '304', '305']",
+        "Classroom": [
+            "U3",
+            "U4",
+            "U5",
+            "U7"
+        ],
+        "Duration": 2,
+        "Assigned_class": "U3",
+        "Assigned_time": 28
+    },
+    {
+        "Subject": "Software Engineering Lab\n",
+        "Type": "P",
+        "Professor": " Dr. A. Suresh",
+        "Group": "['301', '302', '303', '304', '305']",
+        "Classroom": [
+            "U1",
+            "U8"
+        ],
+        "Duration": 2,
+        "Assigned_class": "U1",
+        "Assigned_time": 14
+    },
+    {
+        "Subject": "Software Engineering Lab",
+        "Type": "V",
+        "Professor": "Dr. Surendra Kumar Shukla",
+        "Group": "['306', '307', '309']",
+        "Classroom": [
+            "U3",
+            "U4",
+            "U5",
+            "U7"
+        ],
+        "Duration": 2,
+        "Assigned_class": "U4",
+        "Assigned_time": 42
+    },
+    {
+        "Subject": "Web Development Lab",
+        "Type": "V",
+        "Professor": "Dr. Parul Madan ",
+        "Group": "['306', '307', '309']",
+        "Classroom": [
+            "U3",
+            "U4",
+            "U5",
+            "U7"
+        ],
+        "Duration": 2,
+        "Assigned_class": "U5",
+        "Assigned_time": 16
+    },
+    {
+        "Subject": "Web Development Lab",
+        "Type": "V",
+        "Professor": " Mr. Arnav Kotiyal",
+        "Group": "['306', '307', '309']",
+        "Classroom": [
+            "U3",
+            "U4",
+            "U5",
+            "U7"
+        ],
+        "Duration": 2,
+        "Assigned_class": "U7",
+        "Assigned_time": 57
+    },
+    {
+        "Subject": "Software Engineering Lab",
+        "Type": "V",
+        "Professor": "Mr. Prabhdeep Singh",
+        "Group": "['306', '307', '309']",
+        "Classroom": [
+            "U3",
+            "U4",
+            "U5",
+            "U7"
+        ],
+        "Duration": 2,
+        "Assigned_class": "U3",
+        "Assigned_time": 38
+    },
+    {
+        "Subject": "Compiler Design ",
+        "Type": "V",
+        "Professor": "\t\nDr. Guruprasad",
+        "Group": "['306', '307', '309']",
+        "Classroom": [
+            "U3",
+            "U4",
+            "U5",
+            "U7"
+        ],
+        "Duration": 2,
+        "Assigned_class": "U4",
+        "Assigned_time": 14
+    },
+    {
+        "Subject": "\t\nComputer Networks-I",
+        "Type": "P",
+        "Professor": "Ms. Vishu Tyagi",
+        "Group": "['306', '307', '309']",
+        "Classroom": [
+            "U3",
+            "U4",
+            "U5",
+            "U7"
+        ],
+        "Duration": 2,
+        "Assigned_class": "U4",
+        "Assigned_time": 12
+    },
+    {
+        "Subject": "Compiler Design Lab",
+        "Type": "V",
+        "Professor": "Dr. Ankur Choudhary ",
+        "Group": "['306', '307', '309']",
+        "Classroom": [
+            "U3",
+            "U4",
+            "U5",
+            "U7"
+        ],
+        "Duration": 2,
+        "Assigned_class": "U5",
+        "Assigned_time": 30
+    },
+    {
+        "Subject": "\t\nFull Stack Web Development",
+        "Type": "P",
+        "Professor": "Mr. Yuvraj Joshi",
+        "Group": "['306', '307', '309']",
+        "Classroom": [
+            "U3",
+            "U4",
+            "U5",
+            "U7"
+        ],
+        "Duration": 3,
+        "Assigned_class": "U5",
+        "Assigned_time": 54
+    },
+    {
+        "Subject": "Web Development Lab",
+        "Type": "V",
+        "Professor": "Mr. Yuvraj Joshi",
+        "Group": "['306', '307', '309']",
+        "Classroom": [
+            "U3",
+            "U4",
+            "U5",
+            "U7"
+        ],
+        "Duration": 2,
+        "Assigned_class": "U3",
+        "Assigned_time": 52
+    },
+    {
+        "Subject": "Software Engineering Lab",
+        "Type": "P",
+        "Professor": "Dr. Surendra Kumar Shukla",
+        "Group": "['306', '307', '309']",
+        "Classroom": [
+            "U1",
+            "U8"
+        ],
+        "Duration": 3,
+        "Assigned_class": "U8",
+        "Assigned_time": 7
+    },
+    {
+        "Subject": "Compiler Design",
+        "Type": "V",
+        "Professor": "\t\nMr. Ankit Tomer",
+        "Group": "['306', '307', '309']",
+        "Classroom": [
+            "U3",
+            "U4",
+            "U5",
+            "U7"
+        ],
+        "Duration": 2,
+        "Assigned_class": "U7",
+        "Assigned_time": 32
+    },
+    {
+        "Subject": "Computer Networks-I",
+        "Type": "P",
+        "Professor": "Dr. Akansha Gupta",
+        "Group": "['306', '307', '309']",
+        "Classroom": [
+            "U1",
+            "U8"
+        ],
+        "Duration": 2,
+        "Assigned_class": "U8",
+        "Assigned_time": 36
+    },
+    {
+        "Subject": "Compiler Design Lab",
+        "Type": "V",
+        "Professor": "Mr. Ankit Tomer",
+        "Group": "['306', '307', '309']",
+        "Classroom": [
+            "U3",
+            "U4",
+            "U5",
+            "U7"
+        ],
+        "Duration": 2,
+        "Assigned_class": "U4",
+        "Assigned_time": 40
+    },
+    {
+        "Subject": "Software Engineering Lab",
+        "Type": "V",
+        "Professor": "Dr. Prakash Srivastava ",
+        "Group": "['306', '307', '309']",
+        "Classroom": [
+            "U3",
+            "U4",
+            "U5",
+            "U7"
+        ],
+        "Duration": 2,
+        "Assigned_class": "U4",
+        "Assigned_time": 48
+    },
+    {
+        "Subject": "Full Stack Web Development",
+        "Type": "P",
+        "Professor": "Mr. Sanjeev Kukreti",
+        "Group": "['306', '307', '309']",
+        "Classroom": [
+            "U3",
+            "U4",
+            "U5",
+            "U7"
+        ],
+        "Duration": 2,
+        "Assigned_class": "U3",
+        "Assigned_time": 18
+    },
+    {
+        "Subject": "Software Engineering Lab",
+        "Type": "V",
+        "Professor": "Dr. Santosh Kumar\u00a0",
+        "Group": "['306', '307', '309']",
+        "Classroom": [
+            "U3",
+            "U4",
+            "U5",
+            "U7"
+        ],
+        "Duration": 2,
+        "Assigned_class": "U5",
+        "Assigned_time": 44
+    },
+    {
+        "Subject": "Software Engineering Lab",
+        "Type": "P",
+        "Professor": " Ms. Anchal Rawat",
+        "Group": "['306', '307', '309']",
+        "Classroom": [
+            "U1",
+            "U8"
+        ],
+        "Duration": 3,
+        "Assigned_class": "U8",
+        "Assigned_time": 27
+    },
+    {
+        "Subject": "Web Development Lab",
+        "Type": "V",
+        "Professor": "Mr. Arnav Kotiyal ",
+        "Group": "['306', '307', '309']",
+        "Classroom": [
+            "Lecture Thetere"
+        ],
+        "Duration": 3,
+        "Assigned_class": "Lecture Thetere",
+        "Assigned_time": 24
+    },
+    {
+        "Subject": "Web Development Lab",
+        "Type": "P",
+        "Professor": "Mr. Sanjeev Kukreti",
+        "Group": "['306', '307', '309']",
+        "Classroom": [
+            "Seminar Hall"
+        ],
+        "Duration": 3,
+        "Assigned_class": "Seminar Hall",
+        "Assigned_time": 3
+    },
+    {
+        "Subject": "Compiler Design",
+        "Type": "V",
+        "Professor": "Mr. Priyank Pandey",
+        "Group": "['306', '307', '309']",
+        "Classroom": [
+            "Seminar Hall"
+        ],
+        "Duration": 3,
+        "Assigned_class": "Seminar Hall",
+        "Assigned_time": 20
+    },
+    {
+        "Subject": "Software Engineering Lab",
+        "Type": "P",
+        "Professor": "Dr. Jyoti Agarwal",
+        "Group": "['3d1']",
+        "Classroom": [
+            "U1",
+            "U8"
+        ],
+        "Duration": 3,
+        "Assigned_class": "U1",
+        "Assigned_time": 36
+    },
+    {
+        "Subject": "Web Development Lab",
+        "Type": "V",
+        "Professor": "Dr. Noor Mohd",
         "Group": "['3d1']",
         "Classroom": [
             "U1",
@@ -512,99 +574,37 @@
         ],
         "Duration": 3,
         "Assigned_class": "U8",
-        "Assigned_time": 30
+        "Assigned_time": 41
     },
     {
-        "Subject": "Graficki dizajn 2",
-        "Type": "V",
-        "Professor": "Malesevic Nenad",
+        "Subject": "Security in Social Networks ",
+        "Type": "P",
+        "Professor": "Mr. Ashwini Kumar",
         "Group": "['3d1']",
         "Classroom": [
             "Lecture Thetere"
         ],
         "Duration": 3,
         "Assigned_class": "Lecture Thetere",
-        "Assigned_time": 39
+        "Assigned_time": 32
     },
     {
-        "Subject": "Muzicka produkcija 3",
-        "Type": "P",
-        "Professor": "Ognjanovic Ivana",
-        "Group": "['3d1']",
-        "Classroom": [
-            "Seminar Hall"
-        ],
-        "Duration": 3,
-        "Assigned_class": "Seminar Hall",
-        "Assigned_time": 12
-    },
-    {
-        "Subject": "Muzicka produkcija 3",
+        "Subject": "Bigdata Storage and Processing",
         "Type": "V",
-        "Professor": "Ognjanovic Ivana",
-        "Group": "['3d1']",
-        "Classroom": [
-            "Seminar Hall"
-        ],
-        "Duration": 3,
-        "Assigned_class": "Seminar Hall",
-        "Assigned_time": 51
-    },
-    {
-        "Subject": "Racunarska animacija",
-        "Type": "P",
-        "Professor": "Djuric Milan",
-        "Group": "['3d1']",
-        "Classroom": [
-            "U1",
-            "U8"
-        ],
-        "Duration": 3,
-        "Assigned_class": "U1",
-        "Assigned_time": 19
-    },
-    {
-        "Subject": "Racunarska animacija",
-        "Type": "V",
-        "Professor": "Djuric Milan",
-        "Group": "['3d1']",
-        "Classroom": [
-            "U1",
-            "U8"
-        ],
-        "Duration": 3,
-        "Assigned_class": "U1",
-        "Assigned_time": 48
-    },
-    {
-        "Subject": "Scenario i knjiga snimanja",
-        "Type": "P",
-        "Professor": "Stetin Darko",
-        "Group": "['3d1']",
-        "Classroom": [
-            "Lecture Thetere"
-        ],
-        "Duration": 3,
-        "Assigned_class": "Lecture Thetere",
-        "Assigned_time": 3
-    },
-    {
-        "Subject": "Scenario i knjiga snimanja",
-        "Type": "V",
-        "Professor": "Stetin Darko",
+        "Professor": "Mr. Prabhdeep Singh",
         "Group": "['3d1']",
         "Classroom": [
             "U1",
             "U8"
         ],
         "Duration": 2,
-        "Assigned_class": "U1",
-        "Assigned_time": 44
+        "Assigned_class": "U8",
+        "Assigned_time": 56
     },
     {
-        "Subject": "Upravljanje i odrzavanje Windows Server okruzenja",
+        "Subject": "Cloud Computing Technologies ",
         "Type": "P",
-        "Professor": "Lale Sinisa",
+        "Professor": "Ms. Sarishma",
         "Group": "['3s1']",
         "Classroom": [
             "U3",
@@ -614,12 +614,12 @@
         ],
         "Duration": 3,
         "Assigned_class": "U7",
-        "Assigned_time": 18
+        "Assigned_time": 36
     },
     {
-        "Subject": "Implementiranje Microsoft ISA servera",
+        "Subject": "Compiler Design Lab",
         "Type": "P",
-        "Professor": "Lale Sinisa",
+        "Professor": "Mr. Priyank Pandey\u00a0",
         "Group": "['3s1']",
         "Classroom": [
             "U3",
@@ -628,13 +628,13 @@
             "U7"
         ],
         "Duration": 3,
-        "Assigned_class": "U7",
-        "Assigned_time": 21
+        "Assigned_class": "U5",
+        "Assigned_time": 24
     },
     {
-        "Subject": "Prakticne tehnike zastite u IP mrezama",
+        "Subject": "Compiler Design Lab",
         "Type": "P",
-        "Professor": "Bojovic Petar",
+        "Professor": " Mr. Yogesh Lohumi",
         "Group": "['3s1']",
         "Classroom": [
             "U3",
@@ -644,12 +644,12 @@
         ],
         "Duration": 3,
         "Assigned_class": "U4",
-        "Assigned_time": 0
+        "Assigned_time": 16
     },
     {
-        "Subject": "Prakticne tehnike zastite u IP mrezama",
-        "Type": "V",
-        "Professor": "Jankovski Ivan",
+        "Subject": "Compiler Design",
+        "Type": "P",
+        "Professor": "Dr. Guruprasad",
         "Group": "['3s1']",
         "Classroom": [
             "U3",
@@ -659,25 +659,115 @@
         ],
         "Duration": 3,
         "Assigned_class": "U7",
-        "Assigned_time": 12
+        "Assigned_time": 19
     },
     {
-        "Subject": "Istorija racunarstva",
+        "Subject": "Compiler Design Lab",
         "Type": "P",
-        "Professor": "Zahorjanski Miroljub",
+        "Professor": "Dr. Ankur Choudhary",
+        "Group": "['3s1']",
+        "Classroom": [
+            "U3",
+            "U4",
+            "U5",
+            "U7"
+        ],
+        "Duration": 3,
+        "Assigned_class": "U4",
+        "Assigned_time": 27
+    },
+    {
+        "Subject": "Web Development Lab",
+        "Type": "V",
+        "Professor": "Ms. Tanusha Mittal ",
+        "Group": "['3s1']",
+        "Classroom": [
+            "U3",
+            "U4",
+            "U5",
+            "U7"
+        ],
+        "Duration": 3,
+        "Assigned_class": "U5",
+        "Assigned_time": 48
+    },
+    {
+        "Subject": "Web Development Lab",
+        "Type": "P",
+        "Professor": "Mr. Sanjay Roka",
         "Group": "['3s1', '3s2']",
         "Classroom": [
             "U1",
             "U8"
         ],
         "Duration": 2,
-        "Assigned_class": "U8",
-        "Assigned_time": 48
+        "Assigned_class": "U1",
+        "Assigned_time": 44
     },
     {
-        "Subject": "Razvoj infrastrukture i servisa u oblaku",
+        "Subject": "Full Stack Web Development",
         "Type": "P",
-        "Professor": "Miletic Misa",
+        "Professor": "Ms. Tanusha Mittal",
+        "Group": "['3s2']",
+        "Classroom": [
+            "U3",
+            "U4",
+            "U5",
+            "U7"
+        ],
+        "Duration": 3,
+        "Assigned_class": "U5",
+        "Assigned_time": 7
+    },
+    {
+        "Subject": "Compiler Design Lab",
+        "Type": "V",
+        "Professor": "Ms. Anchal Rawat",
+        "Group": "['3s2']",
+        "Classroom": [
+            "U3",
+            "U4",
+            "U5",
+            "U7"
+        ],
+        "Duration": 3,
+        "Assigned_class": "U5",
+        "Assigned_time": 41
+    },
+    {
+        "Subject": "Software Engineering Lab",
+        "Type": "P",
+        "Professor": "Dr. Akansha Gupta",
+        "Group": "['3s2']",
+        "Classroom": [
+            "U3",
+            "U4",
+            "U5",
+            "U7"
+        ],
+        "Duration": 3,
+        "Assigned_class": "U4",
+        "Assigned_time": 30
+    },
+    {
+        "Subject": "Computer Networks-I",
+        "Type": "P",
+        "Professor": "\t\nDr.Vishwakarma",
+        "Group": "['3s2']",
+        "Classroom": [
+            "U3",
+            "U4",
+            "U5",
+            "U7"
+        ],
+        "Duration": 3,
+        "Assigned_class": "U4",
+        "Assigned_time": 54
+    },
+    {
+        "Subject": "Network and System Security",
+        "Type": "P",
+        "Professor": "Dr. Mohammad Wazid",
         "Group": "['3s2']",
         "Classroom": [
             "U3",
@@ -687,12 +777,12 @@
         ],
         "Duration": 3,
         "Assigned_class": "U7",
-        "Assigned_time": 30
+        "Assigned_time": 1
     },
     {
-        "Subject": "Razvoj infrastrukture i servisa u oblaku",
-        "Type": "V",
-        "Professor": "Miletic Misa",
+        "Subject": "Cloud Computing Technologies ",
+        "Type": "P",
+        "Professor": "Ms. Sarishma",
         "Group": "['3s2']",
         "Classroom": [
             "U3",
@@ -702,42 +792,12 @@
         ],
         "Duration": 3,
         "Assigned_class": "U5",
-        "Assigned_time": 42
+        "Assigned_time": 51
     },
     {
-        "Subject": "Razvoj web aplikacija i servisa",
-        "Type": "P",
-        "Professor": "Markovic Nemanja",
-        "Group": "['3s2']",
-        "Classroom": [
-            "U3",
-            "U4",
-            "U5",
-            "U7"
-        ],
-        "Duration": 3,
-        "Assigned_class": "U3",
-        "Assigned_time": 24
-    },
-    {
-        "Subject": "Microsoft tehnologije za pristup podacima",
-        "Type": "P",
-        "Professor": "Milosavljevic Milos",
-        "Group": "['3s2']",
-        "Classroom": [
-            "U3",
-            "U4",
-            "U5",
-            "U7"
-        ],
-        "Duration": 3,
-        "Assigned_class": "U3",
-        "Assigned_time": 36
-    },
-    {
-        "Subject": "Konkurentni i distribuirani sistemi",
+        "Subject": "Image Processing and Computer Vision",
         "Type": "V",
-        "Professor": "Milojkovic Branislav",
+        "Professor": "Dr. Vikas Tripathi",
         "Group": "['401']",
         "Classroom": [
             "U3",
@@ -746,13 +806,13 @@
             "U7"
         ],
         "Duration": 3,
-        "Assigned_class": "U5",
-        "Assigned_time": 24
+        "Assigned_class": "U7",
+        "Assigned_time": 29
     },
     {
-        "Subject": "Softversko inzenjerstvo",
+        "Subject": "Bigdata Analytics",
         "Type": "V",
-        "Professor": "Markovic Ana",
+        "Professor": "Mr. Prabhdeep Singh",
         "Group": "['401']",
         "Classroom": [
             "U3",
@@ -761,8 +821,8 @@
             "U7"
         ],
         "Duration": 4,
-        "Assigned_class": "U5",
-        "Assigned_time": 0
+        "Assigned_class": "U4",
+        "Assigned_time": 20
     },
     {
         "Subject": "Softversko inzenjerstvo",
@@ -775,7 +835,7 @@
         ],
         "Duration": 4,
         "Assigned_class": "U1",
-        "Assigned_time": 0
+        "Assigned_time": 51
     },
     {
         "Subject": "Teorija algoritama, automata i jezika",
@@ -787,8 +847,8 @@
             "U8"
         ],
         "Duration": 3,
-        "Assigned_class": "U8",
-        "Assigned_time": 27
+        "Assigned_class": "U1",
+        "Assigned_time": 0
     },
     {
         "Subject": "Teorija algoritama, automata i jezika",
@@ -800,8 +860,8 @@
             "U8"
         ],
         "Duration": 3,
-        "Assigned_class": "U1",
-        "Assigned_time": 36
+        "Assigned_class": "U8",
+        "Assigned_time": 45
     },
     {
         "Subject": "Konkurentni i distribuirani sistemi",
@@ -814,7 +874,7 @@
         ],
         "Duration": 3,
         "Assigned_class": "U8",
-        "Assigned_time": 12
+        "Assigned_time": 19
     },
     {
         "Subject": "Konkurentni i distribuirani sistemi",
@@ -829,7 +889,7 @@
         ],
         "Duration": 3,
         "Assigned_class": "U4",
-        "Assigned_time": 40
+        "Assigned_time": 51
     },
     {
         "Subject": "Softversko inzenjerstvo",
@@ -844,7 +904,7 @@
         ],
         "Duration": 4,
         "Assigned_class": "U7",
-        "Assigned_time": 36
+        "Assigned_time": 51
     },
     {
         "Subject": "Konkurentni i distribuirani sistemi",
@@ -858,8 +918,8 @@
             "U7"
         ],
         "Duration": 3,
-        "Assigned_class": "U5",
-        "Assigned_time": 48
+        "Assigned_class": "U3",
+        "Assigned_time": 31
     },
     {
         "Subject": "Digitalna obrada signala",
@@ -874,7 +934,7 @@
         ],
         "Duration": 3,
         "Assigned_class": "U7",
-        "Assigned_time": 7
+        "Assigned_time": 48
     },
     {
         "Subject": "Digitalna obrada signala",
@@ -888,8 +948,8 @@
             "U7"
         ],
         "Duration": 3,
-        "Assigned_class": "U5",
-        "Assigned_time": 36
+        "Assigned_class": "U3",
+        "Assigned_time": 54
     },
     {
         "Subject": "Namenski racunarski sistemi",
@@ -903,8 +963,8 @@
             "U7"
         ],
         "Duration": 3,
-        "Assigned_class": "U3",
-        "Assigned_time": 0
+        "Assigned_class": "U5",
+        "Assigned_time": 1
     },
     {
         "Subject": "Namenski racunarski sistemi",
@@ -918,7 +978,7 @@
             "U7"
         ],
         "Duration": 3,
-        "Assigned_class": "U4",
-        "Assigned_time": 18
+        "Assigned_class": "U3",
+        "Assigned_time": 41
     }
 ]
