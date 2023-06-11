@@ -19,6 +19,10 @@
     <form method="" action="/">
         <input type="submit" name="goOut" id="goOut", value="View Time Table">
     </form>
+    
+    <form method="" action="/logout">
+        <input type="submit" name="l0gOut" id="logOut", value="Log Out">
+    </form>
 
     {% with messages=get_flashed_messages(with_categories=true) %}
       {% for category, message in messages %}
