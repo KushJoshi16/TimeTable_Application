@@ -91,6 +91,16 @@ def login():
         
     return render_template('login.html')
 
+@app.route('/logout')
+def logout():
+    logout_user()
+    session.pop('user_id',None)
+    if not g.user:
+        return redirect(url_for('login'))
+    else:
+        g.user = None
+    flash('You have successfully logged yourself out.')
+    return redirect(url_for('login'))
 
 
 @app.route('/setinputData',methods=['POST'])
