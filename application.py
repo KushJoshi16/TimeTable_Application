@@ -162,16 +162,15 @@ def generatetimetable():
     alg.evolutionary_algorithm()
     outFmat.timeTableFromOutput()
     logger.info("Time Table Generated")
-    return jsonify(success=True)
+    flash('Time Table Genration complete')
+    return redirect(url_for('admin'))
  
-@app.route('/generatetimetable')
+@app.route('/generate_time_table')
 def generate_time_table():
     alg.evolutionary_algorithm()
     outFmat.timeTableFromOutput()
     logger.info("Time Table Generated")
-    print("Reached")
-    flash('Time Table Genration complete')
-    return redirect(url_for('admin'))
+    return jsonify(success=True)
 
 @app.route('/get_time_table')
 def get_time_table():
