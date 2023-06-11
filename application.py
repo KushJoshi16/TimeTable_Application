@@ -93,7 +93,6 @@ def login():
 
 @app.route('/logout')
 def logout():
-    logout_user()
     session.pop('user_id',None)
     if not g.user:
         return redirect(url_for('login'))
